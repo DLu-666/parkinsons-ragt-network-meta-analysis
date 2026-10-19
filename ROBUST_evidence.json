@@ -1,0 +1,899 @@
+[
+  {
+    "study": 1,
+    "label": "Picelli 2012a",
+    "domain": "10MWT",
+    "source": "075_1.Alessandro Picelli2012.txt",
+    "ratings": [
+      "Probably Low Risk",
+      "Probably High Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably Low Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Restricted randomization list; generation mechanism not specified.",
+      "List accessible only to principal investigator; independent enrolment and protection from foreknowledge not established.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "3/34 not analysed (1 versus2; pneumonia and relocation);31 complete cases."
+    ]
+  },
+  {
+    "study": 1,
+    "label": "Picelli 2012a",
+    "domain": "balance",
+    "source": "075_1.Alessandro Picelli2012.txt",
+    "ratings": [
+      "Probably Low Risk",
+      "Probably High Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably Low Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Restricted randomization list; generation mechanism not specified.",
+      "List accessible only to principal investigator; independent enrolment and protection from foreknowledge not established.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "3/34 not analysed (1 versus2; pneumonia and relocation);31 complete cases."
+    ]
+  },
+  {
+    "study": 1,
+    "label": "Picelli 2012a",
+    "domain": "mobility",
+    "source": "075_1.Alessandro Picelli2012.txt",
+    "ratings": [
+      "Probably Low Risk",
+      "Probably High Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably Low Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Restricted randomization list; generation mechanism not specified.",
+      "List accessible only to principal investigator; independent enrolment and protection from foreknowledge not established.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "3/34 not analysed (1 versus2; pneumonia and relocation);31 complete cases."
+    ]
+  },
+  {
+    "study": 1,
+    "label": "Picelli 2012a",
+    "domain": "motor",
+    "source": "075_1.Alessandro Picelli2012.txt",
+    "ratings": [
+      "Probably Low Risk",
+      "Probably High Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably Low Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Restricted randomization list; generation mechanism not specified.",
+      "List accessible only to principal investigator; independent enrolment and protection from foreknowledge not established.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "3/34 not analysed (1 versus2; pneumonia and relocation);31 complete cases."
+    ]
+  },
+  {
+    "study": 2,
+    "label": "Picelli 2012b",
+    "domain": "10MWT",
+    "source": "080_2.Alessandro Picelli,2012b.txt",
+    "ratings": [
+      "Probably Low Risk",
+      "Probably High Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably High Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Simple randomization described; sequence generation not detailed.",
+      "List locked in principal investigator desk; separation from recruitment/assignment unclear.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "5/41 (12.2%) excluded for lack of cooperation;3/21 vs2/20."
+    ]
+  },
+  {
+    "study": 2,
+    "label": "Picelli 2012b",
+    "domain": "6MWT",
+    "source": "080_2.Alessandro Picelli,2012b.txt",
+    "ratings": [
+      "Probably Low Risk",
+      "Probably High Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably High Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Simple randomization described; sequence generation not detailed.",
+      "List locked in principal investigator desk; separation from recruitment/assignment unclear.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "5/41 (12.2%) excluded for lack of cooperation;3/21 vs2/20."
+    ]
+  },
+  {
+    "study": 3,
+    "label": "Picelli 2013",
+    "domain": "10MWT",
+    "source": "081_3.Alessandro Picelli2013.pdf.txt",
+    "ratings": [
+      "Probably Low Risk",
+      "Probably High Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Definitely Low Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Restricted randomization scheme, allocation checked against list.",
+      "Investigator FO checked allocation; protection from foreknowledge during recruitment not described.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "All60 participants analysed,20perarm; report flowchart."
+    ]
+  },
+  {
+    "study": 3,
+    "label": "Picelli 2013",
+    "domain": "6MWT",
+    "source": "081_3.Alessandro Picelli2013.pdf.txt",
+    "ratings": [
+      "Probably Low Risk",
+      "Probably High Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Definitely Low Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Restricted randomization scheme, allocation checked against list.",
+      "Investigator FO checked allocation; protection from foreknowledge during recruitment not described.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "All60 participants analysed,20perarm; report flowchart."
+    ]
+  },
+  {
+    "study": 3,
+    "label": "Picelli 2013",
+    "domain": "balance",
+    "source": "081_3.Alessandro Picelli2013.pdf.txt",
+    "ratings": [
+      "Probably Low Risk",
+      "Probably High Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Definitely Low Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Restricted randomization scheme, allocation checked against list.",
+      "Investigator FO checked allocation; protection from foreknowledge during recruitment not described.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "All60 participants analysed,20perarm; report flowchart."
+    ]
+  },
+  {
+    "study": 4,
+    "label": "Picelli 2015",
+    "domain": "balance",
+    "source": "082_4.Alessandro Picelli2015.txt",
+    "ratings": [
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Definitely Low Risk"
+    ],
+    "overall": "Low Risk",
+    "rationale": [
+      "Balanced restricted randomization, sequence mechanism not detailed.",
+      "Eligibility investigator RN explicitly unaware of next allocation; sealed opaque envelopes; separate FO checked assignments. Sequential numbering not described, hence probably rather than definitely low.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "All66 participants analysed; no missing outcomes stated. Flowchart analysed n0 is a printing inconsistency contradicted by main text and df64."
+    ]
+  },
+  {
+    "study": 4,
+    "label": "Picelli 2015",
+    "domain": "mobility",
+    "source": "082_4.Alessandro Picelli2015.txt",
+    "ratings": [
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Definitely Low Risk"
+    ],
+    "overall": "Low Risk",
+    "rationale": [
+      "Balanced restricted randomization, sequence mechanism not detailed.",
+      "Eligibility investigator RN explicitly unaware of next allocation; sealed opaque envelopes; separate FO checked assignments. Sequential numbering not described, hence probably rather than definitely low.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "All66 participants analysed; no missing outcomes stated. Flowchart analysed n0 is a printing inconsistency contradicted by main text and df64."
+    ]
+  },
+  {
+    "study": 4,
+    "label": "Picelli 2015",
+    "domain": "motor",
+    "source": "082_4.Alessandro Picelli2015.txt",
+    "ratings": [
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Definitely Low Risk"
+    ],
+    "overall": "Low Risk",
+    "rationale": [
+      "Balanced restricted randomization, sequence mechanism not detailed.",
+      "Eligibility investigator RN explicitly unaware of next allocation; sealed opaque envelopes; separate FO checked assignments. Sequential numbering not described, hence probably rather than definitely low.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "All66 participants analysed; no missing outcomes stated. Flowchart analysed n0 is a printing inconsistency contradicted by main text and df64."
+    ]
+  },
+  {
+    "study": 5,
+    "label": "Carda 2012",
+    "domain": "10MWT",
+    "source": "083_5.Carda2012.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably High Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably Low Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Software-generated permuted blocks of2.",
+      "Assignment checked by AB; concealment from enrolment not explained; small fixed block size.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "Flowchart14/15 perarm analysed;2/30 (6.7%) missing, despite ITT wording."
+    ]
+  },
+  {
+    "study": 5,
+    "label": "Carda 2012",
+    "domain": "6MWT",
+    "source": "083_5.Carda2012.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably High Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably Low Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Software-generated permuted blocks of2.",
+      "Assignment checked by AB; concealment from enrolment not explained; small fixed block size.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "Flowchart14/15 perarm analysed;2/30 (6.7%) missing, despite ITT wording."
+    ]
+  },
+  {
+    "study": 5,
+    "label": "Carda 2012",
+    "domain": "mobility",
+    "source": "083_5.Carda2012.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably High Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably Low Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Software-generated permuted blocks of2.",
+      "Assignment checked by AB; concealment from enrolment not explained; small fixed block size.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "Flowchart14/15 perarm analysed;2/30 (6.7%) missing, despite ITT wording."
+    ]
+  },
+  {
+    "study": 5,
+    "label": "Carda 2012",
+    "domain": "motor",
+    "source": "083_5.Carda2012.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably High Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably Low Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Software-generated permuted blocks of2.",
+      "Assignment checked by AB; concealment from enrolment not explained; small fixed block size.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "Flowchart14/15 perarm analysed;2/30 (6.7%) missing, despite ITT wording."
+    ]
+  },
+  {
+    "study": 6,
+    "label": "Furnari 2017",
+    "domain": "10MWT",
+    "source": "084_6.Furnari A2017.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably Low Risk"
+    ],
+    "overall": "Low Risk",
+    "rationale": [
+      "Computer-generated allocation by external assistant.",
+      "External assistant assigned participants after all baseline measurements.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "19/19 perarm reported; no explicit complete participant flow, particularly for follow-up. Probably low risk for the short-term endpoint."
+    ]
+  },
+  {
+    "study": 6,
+    "label": "Furnari 2017",
+    "domain": "balance",
+    "source": "084_6.Furnari A2017.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably Low Risk"
+    ],
+    "overall": "Low Risk",
+    "rationale": [
+      "Computer-generated allocation by external assistant.",
+      "External assistant assigned participants after all baseline measurements.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "19/19 perarm reported; no explicit complete participant flow, particularly for follow-up. Probably low risk for the short-term endpoint."
+    ]
+  },
+  {
+    "study": 6,
+    "label": "Furnari 2017",
+    "domain": "motor",
+    "source": "084_6.Furnari A2017.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably Low Risk"
+    ],
+    "overall": "Low Risk",
+    "rationale": [
+      "Computer-generated allocation by external assistant.",
+      "External assistant assigned participants after all baseline measurements.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "19/19 perarm reported; no explicit complete participant flow, particularly for follow-up. Probably low risk for the short-term endpoint."
+    ]
+  },
+  {
+    "study": 6,
+    "label": "Furnari 2017",
+    "domain": "qol",
+    "source": "084_6.Furnari A2017.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Definitely Low Risk",
+      "Probably High Risk",
+      "Probably Low Risk",
+      "Definitely High Risk",
+      "Probably Low Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Computer-generated allocation by external assistant.",
+      "External assistant assigned participants after all baseline measurements.",
+      "Participants unblinded. Patient-reported symptoms and expectations can affect scores.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Patient is outcome assessor for self-report; unblinded assessment of subjective symptoms or quality of life.",
+      "19/19 perarm reported; no explicit complete participant flow, particularly for follow-up. Probably low risk for the short-term endpoint."
+    ]
+  },
+  {
+    "study": 7,
+    "label": "Capecci 2019",
+    "domain": "10MWT",
+    "source": "085_7.Marianna Capecci2019.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably High Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Block randomization stratified by centre and prognostic characteristics, using software.",
+      "Explicitly concealed allocation with customized software; operational details limited.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "14/110 (12.7%) not analysed;12/60RAGT vs2/50TT, differential attrition."
+    ]
+  },
+  {
+    "study": 7,
+    "label": "Capecci 2019",
+    "domain": "6MWT",
+    "source": "085_7.Marianna Capecci2019.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably High Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Block randomization stratified by centre and prognostic characteristics, using software.",
+      "Explicitly concealed allocation with customized software; operational details limited.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "14/110 (12.7%) not analysed;12/60RAGT vs2/50TT, differential attrition."
+    ]
+  },
+  {
+    "study": 7,
+    "label": "Capecci 2019",
+    "domain": "fog",
+    "source": "085_7.Marianna Capecci2019.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably High Risk",
+      "Probably Low Risk",
+      "Definitely High Risk",
+      "Probably High Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Block randomization stratified by centre and prognostic characteristics, using software.",
+      "Explicitly concealed allocation with customized software; operational details limited.",
+      "Participants unblinded. Patient-reported symptoms and expectations can affect scores.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Patient is outcome assessor for self-report; unblinded assessment of subjective symptoms or quality of life.",
+      "14/110 (12.7%) not analysed;12/60RAGT vs2/50TT, differential attrition."
+    ]
+  },
+  {
+    "study": 7,
+    "label": "Capecci 2019",
+    "domain": "mobility",
+    "source": "085_7.Marianna Capecci2019.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably High Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Block randomization stratified by centre and prognostic characteristics, using software.",
+      "Explicitly concealed allocation with customized software; operational details limited.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "14/110 (12.7%) not analysed;12/60RAGT vs2/50TT, differential attrition."
+    ]
+  },
+  {
+    "study": 7,
+    "label": "Capecci 2019",
+    "domain": "motor",
+    "source": "085_7.Marianna Capecci2019.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably High Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Block randomization stratified by centre and prognostic characteristics, using software.",
+      "Explicitly concealed allocation with customized software; operational details limited.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "14/110 (12.7%) not analysed;12/60RAGT vs2/50TT, differential attrition."
+    ]
+  },
+  {
+    "study": 7,
+    "label": "Capecci 2019",
+    "domain": "qol",
+    "source": "085_7.Marianna Capecci2019.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably High Risk",
+      "Probably Low Risk",
+      "Definitely High Risk",
+      "Probably High Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Block randomization stratified by centre and prognostic characteristics, using software.",
+      "Explicitly concealed allocation with customized software; operational details limited.",
+      "Participants unblinded. Patient-reported symptoms and expectations can affect scores.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Patient is outcome assessor for self-report; unblinded assessment of subjective symptoms or quality of life.",
+      "14/110 (12.7%) not analysed;12/60RAGT vs2/50TT, differential attrition."
+    ]
+  },
+  {
+    "study": 8,
+    "label": "Kim 2022",
+    "domain": "10MWT",
+    "source": "086_8.Heejae Kim2021.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Definitely Low Risk"
+    ],
+    "overall": "Low Risk",
+    "rationale": [
+      "Computer-generated blocks4and6 assigned by independent researcher.",
+      "Independent researcher performed allocation via computer system; exact enrolment interface not described, probably low.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "All44 randomized included by LOCF;20/22perarm completed follow-up. Core D6 counts analysed participants; LOCF assumption remains a separate limitation."
+    ]
+  },
+  {
+    "study": 8,
+    "label": "Kim 2022",
+    "domain": "balance",
+    "source": "086_8.Heejae Kim2021.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Definitely Low Risk"
+    ],
+    "overall": "Low Risk",
+    "rationale": [
+      "Computer-generated blocks4and6 assigned by independent researcher.",
+      "Independent researcher performed allocation via computer system; exact enrolment interface not described, probably low.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "All44 randomized included by LOCF;20/22perarm completed follow-up. Core D6 counts analysed participants; LOCF assumption remains a separate limitation."
+    ]
+  },
+  {
+    "study": 8,
+    "label": "Kim 2022",
+    "domain": "fog",
+    "source": "086_8.Heejae Kim2021.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably High Risk",
+      "Probably Low Risk",
+      "Definitely High Risk",
+      "Definitely Low Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Computer-generated blocks4and6 assigned by independent researcher.",
+      "Independent researcher performed allocation via computer system; exact enrolment interface not described, probably low.",
+      "Participants unblinded. Patient-reported symptoms and expectations can affect scores.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Patient is outcome assessor for self-report; unblinded assessment of subjective symptoms or quality of life.",
+      "All44 randomized included by LOCF;20/22perarm completed follow-up. Core D6 counts analysed participants; LOCF assumption remains a separate limitation."
+    ]
+  },
+  {
+    "study": 8,
+    "label": "Kim 2022",
+    "domain": "mobility",
+    "source": "086_8.Heejae Kim2021.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Definitely Low Risk"
+    ],
+    "overall": "Low Risk",
+    "rationale": [
+      "Computer-generated blocks4and6 assigned by independent researcher.",
+      "Independent researcher performed allocation via computer system; exact enrolment interface not described, probably low.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "All44 randomized included by LOCF;20/22perarm completed follow-up. Core D6 counts analysed participants; LOCF assumption remains a separate limitation."
+    ]
+  },
+  {
+    "study": 8,
+    "label": "Kim 2022",
+    "domain": "motor",
+    "source": "086_8.Heejae Kim2021.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Definitely Low Risk"
+    ],
+    "overall": "Low Risk",
+    "rationale": [
+      "Computer-generated blocks4and6 assigned by independent researcher.",
+      "Independent researcher performed allocation via computer system; exact enrolment interface not described, probably low.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded, with active supervised comparator, specified dose and stable medication; differential additional care judged unlikely, residual concern retained.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "All44 randomized included by LOCF;20/22perarm completed follow-up. Core D6 counts analysed participants; LOCF assumption remains a separate limitation."
+    ]
+  },
+  {
+    "study": 11,
+    "label": "Kawashima 2022",
+    "domain": "10MWT",
+    "source": "077_11.Noriko Kawashima2022.txt",
+    "ratings": [
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably High Risk",
+      "Probably High Risk",
+      "Definitely High Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Minimization on age and disease duration; random component not specified.",
+      "Centralized allocation concealment explicitly stated.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded; additional attention, individualized advice and co-interventions insufficiently controlled.",
+      "Outcome assessors explicitly unblinded/open-label; effort, timing or clinical judgement can affect measurement.",
+      "3/15 (20%) excluded;2/7RAGT and1/8control, loss of motivation or vascular disorder."
+    ]
+  },
+  {
+    "study": 11,
+    "label": "Kawashima 2022",
+    "domain": "balance",
+    "source": "077_11.Noriko Kawashima2022.txt",
+    "ratings": [
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably High Risk",
+      "Probably High Risk",
+      "Definitely High Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Minimization on age and disease duration; random component not specified.",
+      "Centralized allocation concealment explicitly stated.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded; additional attention, individualized advice and co-interventions insufficiently controlled.",
+      "Outcome assessors explicitly unblinded/open-label; effort, timing or clinical judgement can affect measurement.",
+      "3/15 (20%) excluded;2/7RAGT and1/8control, loss of motivation or vascular disorder."
+    ]
+  },
+  {
+    "study": 11,
+    "label": "Kawashima 2022",
+    "domain": "fog",
+    "source": "077_11.Noriko Kawashima2022.txt",
+    "ratings": [
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably High Risk",
+      "Probably High Risk",
+      "Definitely High Risk",
+      "Definitely High Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Minimization on age and disease duration; random component not specified.",
+      "Centralized allocation concealment explicitly stated.",
+      "Participants unblinded. Patient-reported symptoms and expectations can affect scores.",
+      "Therapists unblinded; additional attention, individualized advice and co-interventions insufficiently controlled.",
+      "Patient is outcome assessor for self-report; unblinded assessment of subjective symptoms or quality of life.",
+      "3/15 (20%) excluded;2/7RAGT and1/8control, loss of motivation or vascular disorder."
+    ]
+  },
+  {
+    "study": 11,
+    "label": "Kawashima 2022",
+    "domain": "motor",
+    "source": "077_11.Noriko Kawashima2022.txt",
+    "ratings": [
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably High Risk",
+      "Probably High Risk",
+      "Definitely High Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Minimization on age and disease duration; random component not specified.",
+      "Centralized allocation concealment explicitly stated.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded; additional attention, individualized advice and co-interventions insufficiently controlled.",
+      "Outcome assessors explicitly unblinded/open-label; effort, timing or clinical judgement can affect measurement.",
+      "3/15 (20%) excluded;2/7RAGT and1/8control, loss of motivation or vascular disorder."
+    ]
+  },
+  {
+    "study": 11,
+    "label": "Kawashima 2022",
+    "domain": "qol",
+    "source": "077_11.Noriko Kawashima2022.txt",
+    "ratings": [
+      "Probably Low Risk",
+      "Definitely Low Risk",
+      "Probably High Risk",
+      "Probably High Risk",
+      "Definitely High Risk",
+      "Definitely High Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Minimization on age and disease duration; random component not specified.",
+      "Centralized allocation concealment explicitly stated.",
+      "Participants unblinded. Patient-reported symptoms and expectations can affect scores.",
+      "Therapists unblinded; additional attention, individualized advice and co-interventions insufficiently controlled.",
+      "Patient is outcome assessor for self-report; unblinded assessment of subjective symptoms or quality of life.",
+      "3/15 (20%) excluded;2/7RAGT and1/8control, loss of motivation or vascular disorder."
+    ]
+  },
+  {
+    "study": 12,
+    "label": "McGibbon 2024",
+    "domain": "6MWT",
+    "source": "078_12.ChrisA. McGibbon2024.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably Low Risk",
+      "Probably Low Risk",
+      "Probably High Risk",
+      "Probably High Risk",
+      "Definitely High Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Remote investigator pregenerated block scheme; companion methods report, same registered trial.",
+      "Allocation assigned sequentially by clinic staff not involved in interventions; remote sequence generation. Full concealment detail incomplete.",
+      "Participants unblinded, but active comparator and supervised protocol reduce differential expectations; probably low, not proof of no performance bias.",
+      "Therapists unblinded; additional attention, individualized advice and co-interventions insufficiently controlled.",
+      "Outcome assessors explicitly unblinded/open-label; effort, timing or clinical judgement can affect measurement.",
+      "6MWT10/11 available from13/15 originally allocated exercise arms:7/28 unavailable. Test introduced after first cohort; absence not solely dropout. No older-report outcome values entered."
+    ]
+  },
+  {
+    "study": 13,
+    "label": "Kegelmeyer 2024",
+    "domain": "6MWT",
+    "source": "079_13.Deb A. Kegelmeyer2024.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably High Risk",
+      "Probably High Risk",
+      "Probably High Risk",
+      "Definitely Low Risk",
+      "Probably High Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Computer-generated varying permuted blocks stratified by HY, overseen by biostatisticians.",
+      "Blinded assessors reported, but concealment from participant enrolment not described.",
+      "Participants unblinded; no additional structured control treatment, attention and expectations may influence effort.",
+      "Therapists unblinded; additional attention, individualized advice and co-interventions insufficiently controlled.",
+      "Independent outcome assessor explicitly blinded; performance measure still subject to effort addressed in D3.",
+      "Supplement endpoint n19/20 vs randomized23/22:6/45 (13.3%) unavailable for raw analysis. Main report40completed, supplement39outcome observations."
+    ]
+  },
+  {
+    "study": 13,
+    "label": "Kegelmeyer 2024",
+    "domain": "fog",
+    "source": "079_13.Deb A. Kegelmeyer2024.txt",
+    "ratings": [
+      "Definitely Low Risk",
+      "Probably High Risk",
+      "Probably High Risk",
+      "Probably High Risk",
+      "Definitely High Risk",
+      "Probably High Risk"
+    ],
+    "overall": "High Risk",
+    "rationale": [
+      "Computer-generated varying permuted blocks stratified by HY, overseen by biostatisticians.",
+      "Blinded assessors reported, but concealment from participant enrolment not described.",
+      "Participants unblinded. Patient-reported symptoms and expectations can affect scores.",
+      "Therapists unblinded; additional attention, individualized advice and co-interventions insufficiently controlled.",
+      "Patient is outcome assessor for self-report; unblinded assessment of subjective symptoms or quality of life.",
+      "Supplement endpoint n19/20 vs randomized23/22:6/45 (13.3%) unavailable for raw analysis. Main report40completed, supplement39outcome observations."
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+"domain","treatment1","treatment2","direct_studies","status","direct_mean","direct_lower","direct_upper","indirect_mean","indirect_lower","indirect_upper","difference","difference_lower","difference_upper","tail_probability"
+"10MWT","RAGT","CET",3,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10MWT","RAGT","OGT",1,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10MWT","RAGT","TT",4,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10MWT","CET","OGT",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10MWT","CET","TT",1,"Node split fitted",-1.07008298280906,-2.1891490908568,0.0283941914830832,-0.51654032250834,-1.54079828793412,0.498776780543842,-0.553542660300717,-2.05005559767829,0.939718222048591,0.374333333333333
+"10MWT","OGT","TT",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6MWT","RAGT","CET",3,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6MWT","RAGT","TT",3,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6MWT","RAGT","UC",1,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6MWT","CET","TT",1,"Node split fitted",-1.20707901326274,-2.49020555729064,0.0888667915604606,-0.847015760551246,-2.10127167111246,0.485952318161464,-0.360063252711491,-2.19464520228704,1.41540031956958,0.601916666666667
+"6MWT","CET","UC",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6MWT","TT","UC",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"balance","RAGT","BT",1,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"balance","RAGT","CET",2,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"balance","RAGT","OGT",1,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"balance","RAGT","TT",2,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"balance","BT","CET",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"balance","BT","OGT",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"balance","BT","TT",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"balance","CET","OGT",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"balance","CET","TT",1,"Node split fitted",-0.770601023622326,-2.90123495662868,1.38686733763579,-1.04022212899803,-4.07182339929834,2.0116526163066,0.269621105375704,-3.44706654417095,3.96638250842763,0.807958333333333
+"balance","OGT","TT",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"fog","RAGT","OGT",1,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"fog","RAGT","TT",2,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"fog","RAGT","UC",1,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"fog","OGT","TT",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"fog","OGT","UC",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"fog","TT","UC",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mobility","RAGT","BT",1,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mobility","RAGT","CET",1,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mobility","RAGT","TT",3,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mobility","BT","CET",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mobility","BT","TT",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mobility","CET","TT",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"motor","RAGT","BT",1,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"motor","RAGT","CET",1,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"motor","RAGT","OGT",1,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"motor","RAGT","TT",3,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"motor","BT","CET",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"motor","BT","OGT",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"motor","BT","TT",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"motor","CET","OGT",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"motor","CET","TT",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"motor","OGT","TT",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"qol","RAGT","OGT",1,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"qol","RAGT","TT",1,"No independent indirect path after removing all trials containing the comparison",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"qol","OGT","TT",0,"Indirect evidence only",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,74 @@
+﻿study,label,treatment,domain,scale,unit,time,n,mean,sd,direction,raw_values,raw_format,derivation,source,source_page,approximation,combination
+1,Picelli 2012a,RAGT,balance,Berg Balance Scale,points,post,16,43.44,2.73,1,"[43.44, 2.73]",mean_sd,reported SD,075_1.Alessandro Picelli2012.txt,3,False,False
+1,Picelli 2012a,CET,balance,Berg Balance Scale,points,post,15,37.27,5.68,1,"[37.27, 5.68]",mean_sd,reported SD,075_1.Alessandro Picelli2012.txt,3,False,False
+1,Picelli 2012a,RAGT,mobility,Timed Up and Go,seconds,post,16,11.6,1.37,-1,"[11.6, 1.37]",mean_sd,reported SD,075_1.Alessandro Picelli2012.txt,3,False,False
+1,Picelli 2012a,CET,mobility,Timed Up and Go,seconds,post,15,14.16,6.32,-1,"[14.16, 6.32]",mean_sd,reported SD,075_1.Alessandro Picelli2012.txt,3,False,False
+1,Picelli 2012a,RAGT,10MWT,10-metre walk time,seconds,post,16,11.48,1.62,-1,"[11.48, 1.62]",mean_sd,reported SD,075_1.Alessandro Picelli2012.txt,3,False,False
+1,Picelli 2012a,CET,10MWT,10-metre walk time,seconds,post,15,12.03,4.94,-1,"[12.03, 4.94]",mean_sd,reported SD,075_1.Alessandro Picelli2012.txt,3,False,False
+1,Picelli 2012a,RAGT,motor,UPDRS part III,points,post,16,40.0,6.53,-1,"[40.0, 6.53]",mean_sd,reported SD,075_1.Alessandro Picelli2012.txt,3,False,False
+1,Picelli 2012a,CET,motor,UPDRS part III,points,post,15,47.33,7.5,-1,"[47.33, 7.5]",mean_sd,reported SD,075_1.Alessandro Picelli2012.txt,3,False,False
+2,Picelli 2012b,RAGT,10MWT,10-metre walk speed,m/s,post,18,1.22,0.19,1,"[1.22, 0.19]",mean_sd,reported SD,"080_2.Alessandro Picelli,2012b.txt",6,False,False
+2,Picelli 2012b,CET,10MWT,10-metre walk speed,m/s,post,18,0.98,0.32,1,"[0.98, 0.32]",mean_sd,reported SD,"080_2.Alessandro Picelli,2012b.txt",6,False,False
+2,Picelli 2012b,RAGT,6MWT,6-minute walk distance,metres,post,18,366.06,78.54,1,"[366.06, 78.54]",mean_sd,reported SD,"080_2.Alessandro Picelli,2012b.txt",6,False,False
+2,Picelli 2012b,CET,6MWT,6-minute walk distance,metres,post,18,280.11,106.61,1,"[280.11, 106.61]",mean_sd,reported SD,"080_2.Alessandro Picelli,2012b.txt",6,False,False
+3,Picelli 2013,RAGT,10MWT,10-metre walk speed,m/s,post,20,1.34,0.08,1,"[1.34, 0.08]",mean_sd,reported SD,081_3.Alessandro Picelli2013.pdf.txt,4,False,False
+3,Picelli 2013,TT,10MWT,10-metre walk speed,m/s,post,20,1.26,0.15,1,"[1.26, 0.15]",mean_sd,reported SD,081_3.Alessandro Picelli2013.pdf.txt,4,False,False
+3,Picelli 2013,CET,10MWT,10-metre walk speed,m/s,post,20,1.1,0.19,1,"[1.1, 0.19]",mean_sd,reported SD,081_3.Alessandro Picelli2013.pdf.txt,4,False,False
+3,Picelli 2013,RAGT,6MWT,6-minute walk distance,metres,post,20,410.2,55.15,1,"[410.2, 55.15]",mean_sd,reported SD,081_3.Alessandro Picelli2013.pdf.txt,4,False,False
+3,Picelli 2013,TT,6MWT,6-minute walk distance,metres,post,20,400.15,61.65,1,"[400.15, 61.65]",mean_sd,reported SD,081_3.Alessandro Picelli2013.pdf.txt,4,False,False
+3,Picelli 2013,CET,6MWT,6-minute walk distance,metres,post,20,329.95,54.78,1,"[329.95, 54.78]",mean_sd,reported SD,081_3.Alessandro Picelli2013.pdf.txt,4,False,False
+3,Picelli 2013,RAGT,balance,Berg Balance Scale,points,post,20,53.4,3.3,1,"[53.4, 3.3]",mean_sd,reported SD,081_3.Alessandro Picelli2013.pdf.txt,4,False,False
+3,Picelli 2013,TT,balance,Berg Balance Scale,points,post,20,50.7,3.85,1,"[50.7, 3.85]",mean_sd,reported SD,081_3.Alessandro Picelli2013.pdf.txt,4,False,False
+3,Picelli 2013,CET,balance,Berg Balance Scale,points,post,20,47.35,5.28,1,"[47.35, 5.28]",mean_sd,reported SD,081_3.Alessandro Picelli2013.pdf.txt,4,False,False
+4,Picelli 2015,RAGT,balance,Berg Balance Scale,points,post,33,51.58,3.94,1,"[51.58, 3.94]",mean_sd,reported SD,082_4.Alessandro Picelli2015.txt,1 (abstract); 7 (medians),False,False
+4,Picelli 2015,BT,balance,Berg Balance Scale,points,post,33,51.15,3.46,1,"[51.15, 3.46]",mean_sd,reported SD,082_4.Alessandro Picelli2015.txt,1 (abstract); 7 (medians),False,False
+4,Picelli 2015,RAGT,mobility,Timed Up and Go,seconds,post,33,10.65,3.55,-1,"[10.65, 3.55]",mean_sd,reported SD,082_4.Alessandro Picelli2015.txt,7,False,False
+4,Picelli 2015,BT,mobility,Timed Up and Go,seconds,post,33,10.83,3.52,-1,"[10.83, 3.52]",mean_sd,reported SD,082_4.Alessandro Picelli2015.txt,7,False,False
+4,Picelli 2015,RAGT,motor,UPDRS part III,points,post,33,32.0,9.299428826705082,-1,"[32, 26, 38]",median_q1_q3,Luo(2018)mean + Wan(2014)SD from median and quartiles,082_4.Alessandro Picelli2015.txt,7,True,False
+4,Picelli 2015,BT,motor,UPDRS part III,points,post,33,34.28818181818182,7.749524022254235,-1,"[35, 29, 39]",median_q1_q3,Luo(2018)mean + Wan(2014)SD from median and quartiles,082_4.Alessandro Picelli2015.txt,7,True,False
+5,Carda 2012,RAGT,6MWT,6-minute walk distance,metres,post,14,447.61,72.837291417914,1,"[447.61, 405.56, 489.67]",mean_lower95_upper95,SD from within-group95%CI using t(n-1),083_5.Carda2012.txt,5,False,False
+5,Carda 2012,TT,6MWT,6-minute walk distance,metres,post,14,455.21,71.97131482276576,1,"[455.21, 413.66, 496.77]",mean_lower95_upper95,SD from within-group95%CI using t(n-1),083_5.Carda2012.txt,5,False,False
+5,Carda 2012,RAGT,10MWT,10-metre walk time,seconds,post,14,7.29,1.3942223181885802,-1,"[7.29, 6.48, 8.09]",mean_lower95_upper95,SD from within-group95%CI using t(n-1),083_5.Carda2012.txt,5,False,False
+5,Carda 2012,TT,10MWT,10-metre walk time,seconds,post,14,7.05,0.8313375313422593,-1,"[7.05, 6.57, 7.53]",mean_lower95_upper95,SD from within-group95%CI using t(n-1),083_5.Carda2012.txt,5,False,False
+5,Carda 2012,RAGT,mobility,Timed Up and Go,seconds,post,14,7.75,1.2903051267707986,-1,"[7.75, 7, 8.49]",mean_lower95_upper95,SD from within-group95%CI using t(n-1),083_5.Carda2012.txt,5,False,False
+5,Carda 2012,TT,mobility,Timed Up and Go,seconds,post,14,7.88,1.402882084140062,-1,"[7.88, 7.07, 8.69]",mean_lower95_upper95,SD from within-group95%CI using t(n-1),083_5.Carda2012.txt,5,False,False
+5,Carda 2012,RAGT,motor,UPDRS part III,points,post,14,10.29,2.5892700194930787,-1,"[10.29, 8.79, 11.78]",mean_lower95_upper95,SD from within-group95%CI using t(n-1),083_5.Carda2012.txt,5,False,False
+5,Carda 2012,TT,motor,UPDRS part III,points,post,14,10.64,2.372775870706032,-1,"[10.64, 9.27, 12.01]",mean_lower95_upper95,SD from within-group95%CI using t(n-1),083_5.Carda2012.txt,5,False,False
+7,Capecci 2019,RAGT,6MWT,6-minute walk distance,metres,post,48,298.8,122.2,1,"[298.8, 122.2]",mean_sd,reported SD,085_7.Marianna Capecci2019.txt,7,False,False
+7,Capecci 2019,TT,6MWT,6-minute walk distance,metres,post,48,325.3,103.3,1,"[325.3, 103.3]",mean_sd,reported SD,085_7.Marianna Capecci2019.txt,7,False,False
+7,Capecci 2019,RAGT,mobility,Timed Up and Go,seconds,post,48,16.3,11.4,-1,"[16.3, 11.4]",mean_sd,reported SD,085_7.Marianna Capecci2019.txt,7,False,False
+7,Capecci 2019,TT,mobility,Timed Up and Go,seconds,post,48,16.8,8.6,-1,"[16.8, 8.6]",mean_sd,reported SD,085_7.Marianna Capecci2019.txt,7,False,False
+7,Capecci 2019,RAGT,10MWT,10-metre walk speed,m/s,post,48,1.0,0.3,1,"[1.0, 0.3]",mean_sd,reported SD,085_7.Marianna Capecci2019.txt,7,False,False
+7,Capecci 2019,TT,10MWT,10-metre walk speed,m/s,post,48,1.0,0.3,1,"[1.0, 0.3]",mean_sd,reported SD,085_7.Marianna Capecci2019.txt,7,False,False
+7,Capecci 2019,RAGT,fog,FOG Questionnaire,points,post,48,6.8,5.9,-1,"[6.8, 5.9]",mean_sd,reported SD,085_7.Marianna Capecci2019.txt,7,False,False
+7,Capecci 2019,TT,fog,FOG Questionnaire,points,post,48,7.3,5.6,-1,"[7.3, 5.6]",mean_sd,reported SD,085_7.Marianna Capecci2019.txt,7,False,False
+7,Capecci 2019,RAGT,motor,UPDRS part III,points,post,48,19.5,8.2,-1,"[19.5, 8.2]",mean_sd,reported SD,085_7.Marianna Capecci2019.txt,7,False,False
+7,Capecci 2019,TT,motor,UPDRS part III,points,post,48,21.3,12.9,-1,"[21.3, 12.9]",mean_sd,reported SD,085_7.Marianna Capecci2019.txt,7,False,False
+7,Capecci 2019,RAGT,qol,PDQ-39,points,post,48,49.7,29.7,-1,"[49.7, 29.7]",mean_sd,reported SD,085_7.Marianna Capecci2019.txt,7,False,False
+7,Capecci 2019,TT,qol,PDQ-39,points,post,48,39.2,22.47,-1,"[39.2, 22.47]",mean_sd,reported SD,085_7.Marianna Capecci2019.txt,7,False,False
+8,Kim 2022,RAGT,10MWT,Single-task 10-metre walk speed,m/s,post,22,1.09,0.2,1,"[1.09, 0.2]",mean_sd,reported SD,086_8.Heejae Kim2021.txt,6,False,False
+8,Kim 2022,TT,10MWT,Single-task 10-metre walk speed,m/s,post,22,1.05,0.23,1,"[1.05, 0.23]",mean_sd,reported SD,086_8.Heejae Kim2021.txt,6,False,False
+8,Kim 2022,RAGT,motor,MDS-UPDRS part III,points,post,22,26.8,10.1,-1,"[26.8, 10.1]",mean_sd,reported SD,086_8.Heejae Kim2021.txt,6,False,False
+8,Kim 2022,TT,motor,MDS-UPDRS part III,points,post,22,38.7,16.3,-1,"[38.7, 16.3]",mean_sd,reported SD,086_8.Heejae Kim2021.txt,6,False,False
+8,Kim 2022,RAGT,mobility,Timed Up and Go,seconds,post,22,11.8,3.8,-1,"[11.8, 3.8]",mean_sd,reported SD,086_8.Heejae Kim2021.txt,6,False,False
+8,Kim 2022,TT,mobility,Timed Up and Go,seconds,post,22,13.1,6.8,-1,"[13.1, 6.8]",mean_sd,reported SD,086_8.Heejae Kim2021.txt,6,False,False
+8,Kim 2022,RAGT,balance,Berg Balance Scale,points,post,22,50.9,4.2,1,"[50.9, 4.2]",mean_sd,reported SD,086_8.Heejae Kim2021.txt,6,False,False
+8,Kim 2022,TT,balance,Berg Balance Scale,points,post,22,49.4,5.3,1,"[49.4, 5.3]",mean_sd,reported SD,086_8.Heejae Kim2021.txt,6,False,False
+8,Kim 2022,RAGT,fog,New FOG Questionnaire,points,post,22,7.5,8.4,-1,"[7.5, 8.4]",mean_sd,reported SD,086_8.Heejae Kim2021.txt,6,False,False
+8,Kim 2022,TT,fog,New FOG Questionnaire,points,post,22,11.6,8.6,-1,"[11.6, 8.6]",mean_sd,reported SD,086_8.Heejae Kim2021.txt,6,False,False
+11,Kawashima 2022,RAGT,10MWT,10-metre walk speed,m/s,post,5,1.01,0.3801315561749643,1,"[1.01, 0.17]",mean_sem,SD = SEM * sqrt(n),077_11.Noriko Kawashima2022.txt,6,False,False
+11,Kawashima 2022,OGT,10MWT,10-metre walk speed,m/s,post,7,0.84,0.3439476704383968,1,"[0.84, 0.13]",mean_sem,SD = SEM * sqrt(n),077_11.Noriko Kawashima2022.txt,6,False,False
+11,Kawashima 2022,RAGT,balance,Berg Balance Scale,points,post,5,51,4.919349550499538,1,"[51, 2.2]",mean_sem,SD = SEM * sqrt(n),077_11.Noriko Kawashima2022.txt,6,False,False
+11,Kawashima 2022,OGT,balance,Berg Balance Scale,points,post,7,49.4,5.556077753235641,1,"[49.4, 2.1]",mean_sem,SD = SEM * sqrt(n),077_11.Noriko Kawashima2022.txt,6,False,False
+11,Kawashima 2022,RAGT,motor,UPDRS part III,points,post,5,15.8,3.577708763999664,-1,"[15.8, 1.6]",mean_sem,SD = SEM * sqrt(n),077_11.Noriko Kawashima2022.txt,6,False,False
+11,Kawashima 2022,OGT,motor,UPDRS part III,points,post,7,19.1,6.878953408767936,-1,"[19.1, 2.6]",mean_sem,SD = SEM * sqrt(n),077_11.Noriko Kawashima2022.txt,6,False,False
+11,Kawashima 2022,RAGT,fog,FOG Questionnaire,points,post,5,11.4,3.8013155617496426,-1,"[11.4, 1.7]",mean_sem,SD = SEM * sqrt(n),077_11.Noriko Kawashima2022.txt,6,False,False
+11,Kawashima 2022,OGT,fog,FOG Questionnaire,points,post,7,10.6,4.762352359916264,-1,"[10.6, 1.8]",mean_sem,SD = SEM * sqrt(n),077_11.Noriko Kawashima2022.txt,6,False,False
+11,Kawashima 2022,RAGT,qol,PDQ-39 summary index,points,post,5,24.9,14.981655449248592,-1,"[24.9, 6.7]",mean_sem,SD = SEM * sqrt(n),077_11.Noriko Kawashima2022.txt,6,False,False
+11,Kawashima 2022,OGT,qol,PDQ-39 summary index,points,post,7,31.3,15.345357604174625,-1,"[31.3, 5.8]",mean_sem,SD = SEM * sqrt(n),077_11.Noriko Kawashima2022.txt,6,False,False
+12,McGibbon 2024,RAGT,6MWT,6-minute walk distance,metres,post,10,409.3,90.8,1,"[409.3, 90.8]",mean_sd,reported SD,078_12.ChrisA. McGibbon2024.txt,5,False,True
+12,McGibbon 2024,CET,6MWT,6-minute walk distance,metres,post,11,367.9,126.3,1,"[367.9, 126.3]",mean_sd,reported SD,078_12.ChrisA. McGibbon2024.txt,5,False,True
+13,Kegelmeyer 2024,RAGT,6MWT,6-minute walk distance,metres,post,19,416.93,124.35,1,"[416.93, 124.35]",mean_sd,reported SD,079_13.Deb A. Kegelmeyer2024.txt,Supplemental Table1 p1,False,False
+13,Kegelmeyer 2024,UC,6MWT,6-minute walk distance,metres,post,20,426.92,125.0,1,"[426.92, 125.0]",mean_sd,reported SD,079_13.Deb A. Kegelmeyer2024.txt,Supplemental Table1 p1,False,False
+13,Kegelmeyer 2024,RAGT,fog,FOG Questionnaire,points,post,19,9.0,6.49,-1,"[9.0, 6.49]",mean_sd,reported SD,079_13.Deb A. Kegelmeyer2024.txt,Supplemental Table1 p1,False,False
+13,Kegelmeyer 2024,UC,fog,FOG Questionnaire,points,post,20,9.85,5.45,-1,"[9.85, 5.45]",mean_sd,reported SD,079_13.Deb A. Kegelmeyer2024.txt,Supplemental Table1 p1,False,False

@@ -1,0 +1,48 @@
+﻿Indicator,Comparison,Number of studies,Within-study bias,Reporting bias,Indirectness,Imprecision,Heterogeneity,Incoherence,Confidence rating
+Motor impairment,RAGT versus BT,1,No concerns,Some concerns,No concerns,Major concerns,No concerns,Major concerns,Very low
+Motor impairment,RAGT versus CET,1,Major concerns,Some concerns,Some concerns,Major concerns,No concerns,Major concerns,Very low
+Motor impairment,RAGT versus OGT,1,Major concerns,Some concerns,Some concerns,Major concerns,No concerns,Major concerns,Very low
+Motor impairment,RAGT versus TT,3,Some concerns,Some concerns,Some concerns,Major concerns,No concerns,Major concerns,Very low
+Motor impairment,BT versus CET,0,Some concerns,Some concerns,No concerns,Major concerns,No concerns,Major concerns,Very low
+Motor impairment,BT versus OGT,0,Some concerns,Some concerns,Some concerns,Major concerns,No concerns,Major concerns,Very low
+Motor impairment,BT versus TT,0,Some concerns,Some concerns,No concerns,Major concerns,No concerns,Major concerns,Very low
+Motor impairment,CET versus OGT,0,Major concerns,Some concerns,Some concerns,Major concerns,No concerns,Major concerns,Very low
+Motor impairment,CET versus TT,0,Major concerns,Some concerns,Some concerns,Major concerns,No concerns,Major concerns,Very low
+Motor impairment,OGT versus TT,0,Major concerns,Some concerns,Some concerns,Major concerns,No concerns,Major concerns,Very low
+Balance,RAGT versus BT,1,No concerns,Some concerns,No concerns,Major concerns,No concerns,Some concerns,Very low
+Balance,RAGT versus CET,2,Major concerns,Some concerns,Some concerns,No concerns,No concerns,Some concerns,Very low
+Balance,RAGT versus OGT,1,Major concerns,Some concerns,Some concerns,Major concerns,No concerns,Some concerns,Very low
+Balance,RAGT versus TT,2,Some concerns,Some concerns,Some concerns,Major concerns,No concerns,Some concerns,Very low
+Balance,BT versus CET,0,Some concerns,Some concerns,No concerns,Major concerns,No concerns,Some concerns,Very low
+Balance,BT versus OGT,0,Some concerns,Some concerns,No concerns,Major concerns,No concerns,Some concerns,Very low
+Balance,BT versus TT,0,Some concerns,Some concerns,No concerns,Major concerns,No concerns,Some concerns,Very low
+Balance,CET versus OGT,0,Major concerns,Some concerns,Some concerns,Major concerns,No concerns,Some concerns,Very low
+Balance,CET versus TT,1,Major concerns,Some concerns,No concerns,Some concerns,Some concerns,No concerns,Very low
+Balance,OGT versus TT,0,Major concerns,Some concerns,Some concerns,Major concerns,No concerns,Some concerns,Very low
+Mobility,RAGT versus BT,1,No concerns,Some concerns,No concerns,Major concerns,No concerns,Major concerns,Very low
+Mobility,RAGT versus CET,1,Major concerns,Some concerns,Some concerns,Major concerns,No concerns,Major concerns,Very low
+Mobility,RAGT versus TT,3,Some concerns,Some concerns,Some concerns,Major concerns,No concerns,Major concerns,Very low
+Mobility,BT versus CET,0,Some concerns,Some concerns,Some concerns,Major concerns,No concerns,Major concerns,Very low
+Mobility,BT versus TT,0,Some concerns,Some concerns,No concerns,Major concerns,No concerns,Major concerns,Very low
+Mobility,CET versus TT,0,Major concerns,Some concerns,Some concerns,Major concerns,No concerns,Major concerns,Very low
+Freezing of gait,RAGT versus OGT,1,Major concerns,Some concerns,Some concerns,Major concerns,No concerns,Major concerns,Very low
+Freezing of gait,RAGT versus TT,2,Major concerns,Some concerns,No concerns,Major concerns,No concerns,Major concerns,Very low
+Freezing of gait,RAGT versus UC,1,Major concerns,Some concerns,No concerns,Major concerns,No concerns,Major concerns,Very low
+Freezing of gait,OGT versus TT,0,Major concerns,Some concerns,Some concerns,Major concerns,No concerns,Major concerns,Very low
+Freezing of gait,OGT versus UC,0,Major concerns,Some concerns,No concerns,Major concerns,No concerns,Major concerns,Very low
+Freezing of gait,TT versus UC,0,Major concerns,Some concerns,No concerns,Major concerns,No concerns,Major concerns,Very low
+Quality of life,RAGT versus OGT,1,Major concerns,Some concerns,Some concerns,Major concerns,No concerns,Major concerns,Very low
+Quality of life,RAGT versus TT,1,Major concerns,Some concerns,No concerns,Major concerns,No concerns,Major concerns,Very low
+Quality of life,OGT versus TT,0,Major concerns,Some concerns,Some concerns,Major concerns,No concerns,Major concerns,Very low
+10MWT,RAGT versus CET,3,Major concerns,Some concerns,No concerns,No concerns,Major concerns,Some concerns,Very low
+10MWT,RAGT versus OGT,1,Major concerns,Some concerns,Some concerns,Major concerns,No concerns,Some concerns,Very low
+10MWT,RAGT versus TT,4,Major concerns,Some concerns,No concerns,Major concerns,No concerns,Some concerns,Very low
+10MWT,CET versus OGT,0,Major concerns,Some concerns,Some concerns,Major concerns,No concerns,Some concerns,Very low
+10MWT,CET versus TT,1,Major concerns,Some concerns,No concerns,No concerns,Major concerns,No concerns,Very low
+10MWT,OGT versus TT,0,Major concerns,Some concerns,Some concerns,Major concerns,No concerns,Some concerns,Very low
+6MWT,RAGT versus CET,3,Major concerns,Some concerns,No concerns,No concerns,Some concerns,Some concerns,Very low
+6MWT,RAGT versus TT,3,Major concerns,Some concerns,No concerns,Major concerns,No concerns,Some concerns,Very low
+6MWT,RAGT versus UC,1,Major concerns,Some concerns,No concerns,Major concerns,No concerns,Some concerns,Very low
+6MWT,CET versus TT,1,Major concerns,Some concerns,No concerns,No concerns,Some concerns,No concerns,Very low
+6MWT,CET versus UC,0,Major concerns,Some concerns,No concerns,Some concerns,Some concerns,Some concerns,Very low
+6MWT,TT versus UC,0,Major concerns,Some concerns,No concerns,Major concerns,No concerns,Some concerns,Very low

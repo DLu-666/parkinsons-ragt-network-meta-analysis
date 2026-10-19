@@ -1,0 +1,2022 @@
+[
+  {
+    "id": 1,
+    "label": "Picelli 2012a",
+    "source": "075_1.Alessandro Picelli2012.txt",
+    "n_random": [
+      17,
+      17
+    ],
+    "n_observed": [
+      16,
+      15
+    ],
+    "arms": [
+      "RAGT",
+      "CET"
+    ],
+    "outcomes": [
+      {
+        "domain": "balance",
+        "scale": "Berg Balance Scale",
+        "unit": "points",
+        "page": 3,
+        "values": [
+          [
+            [
+              37.88,
+              3.38
+            ],
+            [
+              43.44,
+              2.73
+            ],
+            [
+              42.31,
+              2.75
+            ]
+          ],
+          [
+            [
+              37.33,
+              4.25
+            ],
+            [
+              37.27,
+              5.68
+            ],
+            [
+              37.6,
+              4.84
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      },
+      {
+        "domain": "mobility",
+        "scale": "Timed Up and Go",
+        "unit": "seconds",
+        "page": 3,
+        "values": [
+          [
+            [
+              13.04,
+              1.79
+            ],
+            [
+              11.6,
+              1.37
+            ],
+            [
+              11.48,
+              1.54
+            ]
+          ],
+          [
+            [
+              13.67,
+              6.0
+            ],
+            [
+              14.16,
+              6.32
+            ],
+            [
+              13.89,
+              5.8
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      },
+      {
+        "domain": "10MWT",
+        "scale": "10-metre walk time",
+        "unit": "seconds",
+        "page": 3,
+        "values": [
+          [
+            [
+              12.94,
+              1.99
+            ],
+            [
+              11.48,
+              1.62
+            ],
+            [
+              11.72,
+              1.81
+            ]
+          ],
+          [
+            [
+              12.28,
+              4.77
+            ],
+            [
+              12.03,
+              4.94
+            ],
+            [
+              12.04,
+              4.39
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      },
+      {
+        "domain": "motor",
+        "scale": "UPDRS part III",
+        "unit": "points",
+        "page": 3,
+        "values": [
+          [
+            [
+              46.31,
+              6.65
+            ],
+            [
+              40.0,
+              6.53
+            ],
+            [
+              39.69,
+              6.93
+            ]
+          ],
+          [
+            [
+              47.2,
+              7.93
+            ],
+            [
+              47.33,
+              7.5
+            ],
+            [
+              47.27,
+              7.6
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      }
+    ],
+    "times": [
+      "baseline",
+      "post",
+      "1 month"
+    ],
+    "recruitment": "October 2008–July 2010",
+    "HY": "3–4",
+    "dose": "12 sessions; 40 min including rest; 4 weeks",
+    "device": "Gait Trainer GT1",
+    "notes": "Numerical tables describe completers. Baseline overall characteristics should not be duplicated by arm. ON medication."
+  },
+  {
+    "id": 2,
+    "label": "Picelli 2012b",
+    "source": "080_2.Alessandro Picelli,2012b.txt",
+    "n_random": [
+      21,
+      20
+    ],
+    "n_observed": [
+      18,
+      18
+    ],
+    "arms": [
+      "RAGT",
+      "CET"
+    ],
+    "outcomes": [
+      {
+        "domain": "10MWT",
+        "scale": "10-metre walk speed",
+        "unit": "m/s",
+        "page": 6,
+        "values": [
+          [
+            [
+              1.09,
+              0.2
+            ],
+            [
+              1.22,
+              0.19
+            ],
+            [
+              1.22,
+              0.2
+            ]
+          ],
+          [
+            [
+              0.97,
+              0.33
+            ],
+            [
+              0.98,
+              0.32
+            ],
+            [
+              0.96,
+              0.31
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      },
+      {
+        "domain": "6MWT",
+        "scale": "6-minute walk distance",
+        "unit": "metres",
+        "page": 6,
+        "values": [
+          [
+            [
+              320.22,
+              68.38
+            ],
+            [
+              366.06,
+              78.54
+            ],
+            [
+              365.11,
+              78.49
+            ]
+          ],
+          [
+            [
+              280.72,
+              108.64
+            ],
+            [
+              280.11,
+              106.61
+            ],
+            [
+              281.11,
+              101.39
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      },
+      {
+        "domain": "excluded_motor",
+        "scale": "UPDRS total (0–147)",
+        "unit": "points",
+        "page": 6,
+        "values": [
+          [
+            [
+              36.83,
+              6.46
+            ],
+            [
+              31.17,
+              7.03
+            ],
+            [
+              30.78,
+              7.26
+            ]
+          ],
+          [
+            [
+              38.61,
+              7.97
+            ],
+            [
+              38.61,
+              7.52
+            ],
+            [
+              38.56,
+              7.59
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "eligible": false,
+        "reason": "Total score includes nonmotor domains; not interchangeable with part III."
+      }
+    ],
+    "times": [
+      "baseline",
+      "post",
+      "1 month"
+    ],
+    "recruitment": "November 2009–January 2011",
+    "HY": "2.5–3",
+    "dose": "12 sessions; 45 min including rest; 4 weeks",
+    "device": "Gait Trainer GT1",
+    "notes": "Physiotherapy includes mobilization and PNF gait exercises. Three versus two withdrawals. UPDRS total is not part III."
+  },
+  {
+    "id": 3,
+    "label": "Picelli 2013",
+    "source": "081_3.Alessandro Picelli2013.pdf.txt",
+    "n_random": [
+      20,
+      20,
+      20
+    ],
+    "n_observed": [
+      20,
+      20,
+      20
+    ],
+    "arms": [
+      "RAGT",
+      "TT",
+      "CET"
+    ],
+    "outcomes": [
+      {
+        "domain": "10MWT",
+        "scale": "10-metre walk speed",
+        "unit": "m/s",
+        "page": 4,
+        "values": [
+          [
+            [
+              1.06,
+              0.08
+            ],
+            [
+              1.34,
+              0.08
+            ],
+            [
+              1.33,
+              0.1
+            ]
+          ],
+          [
+            [
+              1.09,
+              0.17
+            ],
+            [
+              1.26,
+              0.15
+            ],
+            [
+              1.26,
+              0.16
+            ]
+          ],
+          [
+            [
+              1.07,
+              0.2
+            ],
+            [
+              1.1,
+              0.19
+            ],
+            [
+              1.09,
+              0.18
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      },
+      {
+        "domain": "6MWT",
+        "scale": "6-minute walk distance",
+        "unit": "metres",
+        "page": 4,
+        "values": [
+          [
+            [
+              325.45,
+              60.62
+            ],
+            [
+              410.2,
+              55.15
+            ],
+            [
+              398.95,
+              54.54
+            ]
+          ],
+          [
+            [
+              320.1,
+              82.19
+            ],
+            [
+              400.15,
+              61.65
+            ],
+            [
+              395.65,
+              64.53
+            ]
+          ],
+          [
+            [
+              327.1,
+              52.21
+            ],
+            [
+              329.95,
+              54.78
+            ],
+            [
+              325.1,
+              59.09
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      },
+      {
+        "domain": "balance",
+        "scale": "Berg Balance Scale",
+        "unit": "points",
+        "page": 4,
+        "values": [
+          [
+            [
+              48.25,
+              3.88
+            ],
+            [
+              53.4,
+              3.3
+            ],
+            [
+              52.55,
+              3.59
+            ]
+          ],
+          [
+            [
+              47.1,
+              4.71
+            ],
+            [
+              50.7,
+              3.85
+            ],
+            [
+              50.8,
+              5.14
+            ]
+          ],
+          [
+            [
+              46.35,
+              4.93
+            ],
+            [
+              47.35,
+              5.28
+            ],
+            [
+              47.45,
+              4.91
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      }
+    ],
+    "times": [
+      "baseline",
+      "post",
+      "3 months"
+    ],
+    "recruitment": "March 2011–May 2012",
+    "HY": "3",
+    "dose": "12 sessions; 45 min including rest; 4 weeks",
+    "device": "Gait Trainer GT1",
+    "notes": "Three-arm trial. Conventional physiotherapy uses pelvic PNF techniques, not a pure treadmill or overground programme. UPDRS total excluded from motor domain."
+  },
+  {
+    "id": 4,
+    "label": "Picelli 2015",
+    "source": "082_4.Alessandro Picelli2015.txt",
+    "n_random": [
+      33,
+      33
+    ],
+    "n_observed": [
+      33,
+      33
+    ],
+    "arms": [
+      "RAGT",
+      "BT"
+    ],
+    "outcomes": [
+      {
+        "domain": "balance",
+        "scale": "Berg Balance Scale",
+        "unit": "points",
+        "page": "1 (abstract); 7 (medians)",
+        "values": [
+          [
+            null,
+            [
+              51.58,
+              3.94
+            ],
+            [
+              51.03,
+              4.63
+            ]
+          ],
+          [
+            null,
+            [
+              51.15,
+              3.46
+            ],
+            [
+              50.97,
+              4.28
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "baseline_median_iqr": [
+          [
+            48,
+            43,
+            51
+          ],
+          [
+            47,
+            45,
+            49
+          ]
+        ]
+      },
+      {
+        "domain": "mobility",
+        "scale": "Timed Up and Go",
+        "unit": "seconds",
+        "page": 7,
+        "values": [
+          [
+            [
+              11.61,
+              4.57
+            ],
+            [
+              10.65,
+              3.55
+            ],
+            [
+              10.77,
+              3.96
+            ]
+          ],
+          [
+            [
+              12.11,
+              4.47
+            ],
+            [
+              10.83,
+              3.52
+            ],
+            [
+              10.96,
+              3.97
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      },
+      {
+        "domain": "motor",
+        "scale": "UPDRS part III",
+        "unit": "points",
+        "page": 7,
+        "values": [
+          [
+            [
+              38,
+              32,
+              43
+            ],
+            [
+              32,
+              26,
+              38
+            ],
+            [
+              33,
+              26,
+              38
+            ]
+          ],
+          [
+            [
+              40,
+              35,
+              42
+            ],
+            [
+              35,
+              29,
+              39
+            ],
+            [
+              35,
+              30,
+              40
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "raw_format": "median_q1_q3",
+        "conversion_required": true,
+        "change_mean_sd": [
+          [
+            [
+              -4.48,
+              2.92
+            ],
+            [
+              -4.73,
+              2.8
+            ]
+          ],
+          [
+            [
+              -4.35,
+              5.86
+            ],
+            [
+              -4.73,
+              5.71
+            ]
+          ]
+        ]
+      }
+    ],
+    "times": [
+      "baseline",
+      "post",
+      "1 month"
+    ],
+    "recruitment": "January 2011–December 2013",
+    "HY": "3",
+    "dose": "12 sessions; 45 min including rest; 4 weeks",
+    "device": "Gait Trainer GT1",
+    "notes": "Flowchart printing issue (analysed n=0) conflicts with text and df64. Mean SD BBS from abstract; table medians do not supersede directly reported means. No attrition in text."
+  },
+  {
+    "id": 5,
+    "label": "Carda 2012",
+    "source": "083_5.Carda2012.txt",
+    "n_random": [
+      15,
+      15
+    ],
+    "n_observed": [
+      14,
+      14
+    ],
+    "arms": [
+      "RAGT",
+      "TT"
+    ],
+    "outcomes": [
+      {
+        "domain": "6MWT",
+        "scale": "6-minute walk distance",
+        "unit": "metres",
+        "page": 5,
+        "values": [
+          [
+            [
+              405.07,
+              364.8,
+              445.34
+            ],
+            [
+              447.61,
+              405.56,
+              489.67
+            ],
+            [
+              475.19,
+              438.58,
+              511.8
+            ],
+            [
+              458.6,
+              417.23,
+              499.96
+            ]
+          ],
+          [
+            [
+              417.34,
+              383.01,
+              451.66
+            ],
+            [
+              455.21,
+              413.66,
+              496.77
+            ],
+            [
+              473.16,
+              433.46,
+              512.85
+            ],
+            [
+              490.95,
+              448.56,
+              533.34
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "raw_format": "mean_lower95_upper95",
+        "conversion_required": true
+      },
+      {
+        "domain": "10MWT",
+        "scale": "10-metre walk time",
+        "unit": "seconds",
+        "page": 5,
+        "values": [
+          [
+            [
+              7.64,
+              6.86,
+              8.42
+            ],
+            [
+              7.29,
+              6.48,
+              8.09
+            ],
+            [
+              7.17,
+              6.49,
+              7.84
+            ],
+            [
+              6.91,
+              6.18,
+              7.65
+            ]
+          ],
+          [
+            [
+              7.85,
+              7.18,
+              8.52
+            ],
+            [
+              7.05,
+              6.57,
+              7.53
+            ],
+            [
+              6.96,
+              6.41,
+              7.51
+            ],
+            [
+              6.86,
+              6.51,
+              7.22
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "raw_format": "mean_lower95_upper95",
+        "conversion_required": true
+      },
+      {
+        "domain": "mobility",
+        "scale": "Timed Up and Go",
+        "unit": "seconds",
+        "page": 5,
+        "values": [
+          [
+            [
+              8.33,
+              7.45,
+              9.22
+            ],
+            [
+              7.75,
+              7,
+              8.49
+            ],
+            [
+              7.44,
+              6.75,
+              8.12
+            ],
+            [
+              7.19,
+              6.33,
+              8.04
+            ]
+          ],
+          [
+            [
+              8.79,
+              7.65,
+              9.92
+            ],
+            [
+              7.88,
+              7.07,
+              8.69
+            ],
+            [
+              7.06,
+              6.53,
+              7.59
+            ],
+            [
+              6.97,
+              6.47,
+              7.46
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "raw_format": "mean_lower95_upper95",
+        "conversion_required": true
+      },
+      {
+        "domain": "motor",
+        "scale": "UPDRS part III",
+        "unit": "points",
+        "page": 5,
+        "values": [
+          [
+            [
+              10.33,
+              8.89,
+              11.78
+            ],
+            [
+              10.29,
+              8.79,
+              11.78
+            ],
+            [
+              10.36,
+              8.73,
+              11.98
+            ],
+            [
+              10.14,
+              8.61,
+              11.68
+            ]
+          ],
+          [
+            [
+              10.73,
+              9.32,
+              12.14
+            ],
+            [
+              10.64,
+              9.27,
+              12.01
+            ],
+            [
+              10.36,
+              9.23,
+              11.48
+            ],
+            [
+              10.14,
+              8.86,
+              11.42
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "raw_format": "mean_lower95_upper95",
+        "conversion_required": true
+      },
+      {
+        "domain": "excluded_qol",
+        "scale": "SF-12 physical component",
+        "unit": "points",
+        "page": 5,
+        "values": [
+          [
+            [
+              44.84,
+              41.28,
+              48.4
+            ],
+            [
+              45.67,
+              42.26,
+              49.09
+            ],
+            [
+              46.08,
+              42.51,
+              49.64
+            ],
+            [
+              46.01,
+              42.5,
+              49.53
+            ]
+          ],
+          [
+            [
+              43.97,
+              39.4,
+              48.53
+            ],
+            [
+              44.69,
+              39.57,
+              49.81
+            ],
+            [
+              46.04,
+              41.65,
+              50.44
+            ],
+            [
+              46.29,
+              41.77,
+              50.8
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "raw_format": "mean_lower95_upper95",
+        "eligible": false,
+        "reason": "Physical component, not global disease-specific quality of life."
+      },
+      {
+        "domain": "excluded_qol",
+        "scale": "SF-12 mental component",
+        "unit": "points",
+        "page": 5,
+        "values": [
+          [
+            [
+              47.61,
+              42.5,
+              52.72
+            ],
+            [
+              48.16,
+              43.4,
+              52.92
+            ],
+            [
+              48.16,
+              43.45,
+              52.87
+            ],
+            [
+              48.51,
+              43.54,
+              53.49
+            ]
+          ],
+          [
+            [
+              50.21,
+              46.88,
+              53.53
+            ],
+            [
+              48.86,
+              45.94,
+              51.78
+            ],
+            [
+              48.86,
+              45.18,
+              52.55
+            ],
+            [
+              48.74,
+              45.15,
+              52.32
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "raw_format": "mean_lower95_upper95",
+        "eligible": false,
+        "reason": "Mental component, not global disease-specific quality of life."
+      }
+    ],
+    "times": [
+      "baseline",
+      "post",
+      "3 months",
+      "6 months"
+    ],
+    "recruitment": "October 2010–April 2011",
+    "HY": "<3",
+    "dose": "12 sessions; 30 min; 4 weeks",
+    "device": "Lokomat",
+    "registration": "NCT01302184",
+    "n_status": "Flowchart PDF4 explicitly states 14 evaluated and analysed per arm at all post-baseline visits; use 14 for post-treatment CIs despite ITT wording.",
+    "notes": "Table 2 is mean (95% CI), NOT SD. Preserve native seconds; no reciprocal mean/SD conversion. SF-12 components extracted separately, not global QoL."
+  },
+  {
+    "id": 6,
+    "label": "Furnari 2017",
+    "source": "084_6.Furnari A2017.txt",
+    "n_random": [
+      19,
+      19
+    ],
+    "n_observed": [
+      19,
+      19
+    ],
+    "arms": [
+      "RAGT",
+      "OGT"
+    ],
+    "outcomes": [
+      {
+        "domain": "motor",
+        "scale": "UPDRS part III",
+        "unit": "points",
+        "page": "3,8",
+        "values": [
+          [
+            [
+              32.36,
+              15.46
+            ],
+            null,
+            null
+          ],
+          [
+            [
+              30.15,
+              12.7
+            ],
+            null,
+            null
+          ]
+        ],
+        "format": "mean_sd",
+        "model_contrasts": [
+          {
+            "time": "post",
+            "comparison": "OGT minus RAGT",
+            "mean_difference": 1.8,
+            "standard_error": 4.37
+          },
+          {
+            "time": "3 months",
+            "comparison": "OGT minus RAGT",
+            "mean_difference": 4.5,
+            "standard_error": 4.37
+          }
+        ],
+        "eligible": false,
+        "reason": "Endpoint group SDs not reported; retain direct model contrast separately."
+      },
+      {
+        "domain": "balance",
+        "scale": "Tinetti Balance",
+        "unit": "points",
+        "page": "3,8",
+        "values": [
+          [
+            [
+              9.8,
+              3.72
+            ],
+            null,
+            null
+          ],
+          [
+            [
+              7.15,
+              3.39
+            ],
+            null,
+            null
+          ]
+        ],
+        "format": "mean_sd",
+        "model_contrasts": [
+          {
+            "time": "post",
+            "comparison": "OGT minus RAGT",
+            "mean_difference": -0.5,
+            "standard_error": 1.08
+          },
+          {
+            "time": "3 months",
+            "comparison": "OGT minus RAGT",
+            "mean_difference": -1.2,
+            "standard_error": 1.08
+          }
+        ],
+        "eligible": false,
+        "reason": "No endpoint group SD; non-BBS instrument, direct model contrast separately."
+      },
+      {
+        "domain": "10MWT",
+        "scale": "10-metre walk speed",
+        "unit": "m/s",
+        "page": 3,
+        "values": [
+          [
+            [
+              0.87,
+              0.37
+            ],
+            null,
+            null
+          ],
+          [
+            [
+              0.7,
+              0.32
+            ],
+            null,
+            null
+          ]
+        ],
+        "format": "mean_sd",
+        "eligible": false,
+        "reason": "Only baseline numerical group summary available."
+      },
+      {
+        "domain": "qol",
+        "scale": "PDQ-39 (reported scoring unclear)",
+        "unit": "points",
+        "page": 3,
+        "values": [
+          [
+            [
+              139.09,
+              78.17
+            ],
+            null,
+            null
+          ],
+          [
+            [
+              171.82,
+              72.13
+            ],
+            null,
+            null
+          ]
+        ],
+        "format": "mean_sd",
+        "eligible": false,
+        "reason": "Only baseline numerical group summary; control mean exceeds standard PDQ-39 raw sum156, no correction invented."
+      }
+    ],
+    "times": [
+      "baseline",
+      "post",
+      "3 months"
+    ],
+    "HY": "Eligibility 2–3; reported group means 3.1 versus 2.2 conflict with eligibility",
+    "dose": "4 weeks; shared CEP30min + gait30min; text conflicts 24 sessions versus 12 robot sessions",
+    "device": "Lokomat",
+    "registration": "NCT02164162",
+    "notes": "Both arms receive CEP. Numerical group endpoint SDs unavailable. Old CSV motor mean40.16 equals baseline32.36 + T0-minus-T2 7.8; wrong direction. Do not reconstruct endpoint SD from mixed-model contrast SE.",
+    "quantitative_status": "Endpoint SMD unavailable; model-derived raw mean differences can be reported separately"
+  },
+  {
+    "id": 7,
+    "label": "Capecci 2019",
+    "source": "085_7.Marianna Capecci2019.txt",
+    "n_random": [
+      60,
+      50
+    ],
+    "n_observed": [
+      48,
+      48
+    ],
+    "arms": [
+      "RAGT",
+      "TT"
+    ],
+    "outcomes": [
+      {
+        "domain": "6MWT",
+        "scale": "6-minute walk distance",
+        "unit": "metres",
+        "page": 7,
+        "values": [
+          [
+            [
+              280.7,
+              95.8
+            ],
+            [
+              298.8,
+              122.2
+            ]
+          ],
+          [
+            [
+              278.5,
+              116
+            ],
+            [
+              325.3,
+              103.3
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      },
+      {
+        "domain": "mobility",
+        "scale": "Timed Up and Go",
+        "unit": "seconds",
+        "page": 7,
+        "values": [
+          [
+            [
+              17.8,
+              9.8
+            ],
+            [
+              16.3,
+              11.4
+            ]
+          ],
+          [
+            [
+              20.0,
+              11.0
+            ],
+            [
+              16.8,
+              8.6
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      },
+      {
+        "domain": "10MWT",
+        "scale": "10-metre walk speed",
+        "unit": "m/s",
+        "page": 7,
+        "values": [
+          [
+            [
+              0.9,
+              0.3
+            ],
+            [
+              1.0,
+              0.3
+            ]
+          ],
+          [
+            [
+              0.9,
+              0.3
+            ],
+            [
+              1.0,
+              0.3
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      },
+      {
+        "domain": "fog",
+        "scale": "FOG Questionnaire",
+        "unit": "points",
+        "page": 7,
+        "values": [
+          [
+            [
+              9.9,
+              7.0
+            ],
+            [
+              6.8,
+              5.9
+            ]
+          ],
+          [
+            [
+              8.9,
+              6.1
+            ],
+            [
+              7.3,
+              5.6
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      },
+      {
+        "domain": "motor",
+        "scale": "UPDRS part III",
+        "unit": "points",
+        "page": 7,
+        "values": [
+          [
+            [
+              22.4,
+              9.5
+            ],
+            [
+              19.5,
+              8.2
+            ]
+          ],
+          [
+            [
+              24.9,
+              16.7
+            ],
+            [
+              21.3,
+              12.9
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      },
+      {
+        "domain": "qol",
+        "scale": "PDQ-39",
+        "unit": "points",
+        "page": 7,
+        "values": [
+          [
+            [
+              55.9,
+              30.8
+            ],
+            [
+              49.7,
+              29.7
+            ]
+          ],
+          [
+            [
+              48.5,
+              28.9
+            ],
+            [
+              39.2,
+              22.47
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      }
+    ],
+    "times": [
+      "baseline",
+      "post"
+    ],
+    "HY": "2–4, OFF staging; outcomes ON",
+    "dose": "20 sessions; 45min; 4 weeks",
+    "device": "G-EO System",
+    "registration": "NCT01668407",
+    "notes": "110 allocated,96completed. Asymmetric12/60 vs2/50 attrition, not96 randomized."
+  },
+  {
+    "id": 8,
+    "label": "Kim 2022",
+    "source": "086_8.Heejae Kim2021.txt",
+    "n_random": [
+      22,
+      22
+    ],
+    "n_observed": [
+      22,
+      22
+    ],
+    "arms": [
+      "RAGT",
+      "TT"
+    ],
+    "outcomes": [
+      {
+        "domain": "10MWT",
+        "scale": "Single-task 10-metre walk speed",
+        "unit": "m/s",
+        "page": 6,
+        "values": [
+          [
+            [
+              1.0,
+              0.2
+            ],
+            [
+              1.09,
+              0.2
+            ],
+            [
+              1.08,
+              0.23
+            ]
+          ],
+          [
+            [
+              0.98,
+              0.22
+            ],
+            [
+              1.05,
+              0.23
+            ],
+            [
+              1.05,
+              0.23
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      },
+      {
+        "domain": "motor",
+        "scale": "MDS-UPDRS part III",
+        "unit": "points",
+        "page": 6,
+        "values": [
+          [
+            [
+              32.1,
+              11.1
+            ],
+            [
+              26.8,
+              10.1
+            ],
+            [
+              27.8,
+              12.6
+            ]
+          ],
+          [
+            [
+              41.1,
+              12.6
+            ],
+            [
+              38.7,
+              16.3
+            ],
+            [
+              39.7,
+              15.9
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "change_mean_sd": [
+          [
+            [
+              -5.4,
+              9.0
+            ],
+            [
+              -4.4,
+              10.4
+            ]
+          ],
+          [
+            [
+              -2.4,
+              13.2
+            ],
+            [
+              -1.4,
+              13.3
+            ]
+          ]
+        ]
+      },
+      {
+        "domain": "mobility",
+        "scale": "Timed Up and Go",
+        "unit": "seconds",
+        "page": 6,
+        "values": [
+          [
+            [
+              15.1,
+              8.9
+            ],
+            [
+              11.8,
+              3.8
+            ],
+            [
+              14.0,
+              12.0
+            ]
+          ],
+          [
+            [
+              14.0,
+              6.9
+            ],
+            [
+              13.1,
+              6.8
+            ],
+            [
+              13.0,
+              7.2
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      },
+      {
+        "domain": "balance",
+        "scale": "Berg Balance Scale",
+        "unit": "points",
+        "page": 6,
+        "values": [
+          [
+            [
+              49.1,
+              4.2
+            ],
+            [
+              50.9,
+              4.2
+            ],
+            [
+              51.1,
+              5.6
+            ]
+          ],
+          [
+            [
+              47.9,
+              4.7
+            ],
+            [
+              49.4,
+              5.3
+            ],
+            [
+              50.6,
+              4.7
+            ]
+          ]
+        ],
+        "format": "mean_sd"
+      },
+      {
+        "domain": "fog",
+        "scale": "New FOG Questionnaire",
+        "unit": "points",
+        "page": 6,
+        "values": [
+          [
+            [
+              9.8,
+              9.3
+            ],
+            [
+              7.5,
+              8.4
+            ],
+            [
+              7.3,
+              9.3
+            ]
+          ],
+          [
+            [
+              12.7,
+              7.8
+            ],
+            [
+              11.6,
+              8.6
+            ],
+            [
+              12.7,
+              9.0
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "notes": "Table1 baselineRAGT9.7 versus longitudinalTable3 9.8; preserveTable3 values."
+      }
+    ],
+    "times": [
+      "baseline",
+      "post",
+      "1 month"
+    ],
+    "recruitment": "April 2018–November 2019",
+    "HY": "2.5–3",
+    "dose": "12 sessions;45min including warm-up/cool-down;4weeks",
+    "device": "Walkbot-S",
+    "registration": "NCT03490578",
+    "notes": "Publication volume2022, online2021. ITT22/22 with LOCF;20/20 completed follow-up. Previous rehabilitation could continue. RAGT auditory/visual feedback. Baseline motor severity imbalance."
+  },
+  {
+    "id": 11,
+    "label": "Kawashima 2022",
+    "source": "077_11.Noriko Kawashima2022.txt",
+    "n_random": [
+      7,
+      8
+    ],
+    "n_observed": [
+      5,
+      7
+    ],
+    "arms": [
+      "RAGT",
+      "OGT"
+    ],
+    "outcomes": [
+      {
+        "domain": "10MWT",
+        "scale": "10-metre walk speed",
+        "unit": "m/s",
+        "page": 6,
+        "values": [
+          [
+            [
+              0.9,
+              0.13
+            ],
+            [
+              1.01,
+              0.17
+            ]
+          ],
+          [
+            [
+              0.85,
+              0.14
+            ],
+            [
+              0.84,
+              0.13
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "raw_format": "mean_sem",
+        "conversion_required": true,
+        "notes": "Author calculated speeds; no new reciprocal conversion."
+      },
+      {
+        "domain": "balance",
+        "scale": "Berg Balance Scale",
+        "unit": "points",
+        "page": 6,
+        "values": [
+          [
+            [
+              49,
+              2.4
+            ],
+            [
+              51,
+              2.2
+            ]
+          ],
+          [
+            [
+              49.4,
+              2.3
+            ],
+            [
+              49.4,
+              2.1
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "raw_format": "mean_sem",
+        "conversion_required": true
+      },
+      {
+        "domain": "motor",
+        "scale": "UPDRS part III",
+        "unit": "points",
+        "page": 6,
+        "values": [
+          [
+            [
+              19,
+              2.6
+            ],
+            [
+              15.8,
+              1.6
+            ]
+          ],
+          [
+            [
+              18.7,
+              1.9
+            ],
+            [
+              19.1,
+              2.6
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "raw_format": "mean_sem",
+        "conversion_required": true
+      },
+      {
+        "domain": "fog",
+        "scale": "FOG Questionnaire",
+        "unit": "points",
+        "page": 6,
+        "values": [
+          [
+            [
+              12.2,
+              1.6
+            ],
+            [
+              11.4,
+              1.7
+            ]
+          ],
+          [
+            [
+              8.4,
+              1.2
+            ],
+            [
+              10.6,
+              1.8
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "raw_format": "mean_sem",
+        "conversion_required": true
+      },
+      {
+        "domain": "qol",
+        "scale": "PDQ-39 summary index",
+        "unit": "points",
+        "page": 6,
+        "values": [
+          [
+            [
+              28.6,
+              9.3
+            ],
+            [
+              24.9,
+              6.7
+            ]
+          ],
+          [
+            [
+              32.6,
+              5.9
+            ],
+            [
+              31.3,
+              5.8
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "raw_format": "mean_sem",
+        "conversion_required": true
+      }
+    ],
+    "times": [
+      "baseline",
+      "post"
+    ],
+    "recruitment": "October 2017–March 2020",
+    "HY": "2–4",
+    "dose": "10 sessions;30min;3months",
+    "device": "Honda Stride Management Assist",
+    "registration": "UMIN000040131",
+    "notes": "Table3 gives mean SEM. Multiply SEM by sqrt of outcome-specific n5or7. Three-minute walking distance is not6MWT. Table3 three months is end of intervention, not post-treatment follow-up."
+  },
+  {
+    "id": 12,
+    "label": "McGibbon 2024",
+    "source": "078_12.ChrisA. McGibbon2024.txt",
+    "n_random": [
+      13,
+      15
+    ],
+    "n_observed": [
+      13,
+      14
+    ],
+    "arms": [
+      "RAGT",
+      "CET"
+    ],
+    "outcomes": [
+      {
+        "domain": "6MWT",
+        "scale": "6-minute walk distance",
+        "unit": "metres",
+        "page": 5,
+        "values": [
+          [
+            [
+              374.4,
+              78.9
+            ],
+            [
+              409.3,
+              90.8
+            ]
+          ],
+          [
+            [
+              369.3,
+              122.0
+            ],
+            [
+              367.9,
+              126.3
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "n": [
+          10,
+          11
+        ],
+        "change_mean_sd": [
+          [
+            [
+              34.8,
+              17.6
+            ]
+          ],
+          [
+            [
+              -1.4,
+              20.4
+            ]
+          ]
+        ]
+      }
+    ],
+    "times": [
+      "baseline",
+      "post"
+    ],
+    "recruitment": "September 2018–October 2019",
+    "HY": "1–4",
+    "dose": "16sessions over8weeks; progressive multimodal programme",
+    "device": "Keeogo Rehab",
+    "registration": "NCT03583879",
+    "notes": "Latest report retained per author decision; Gryfe2022 excluded from outcome inputs.27exercise participants;6MWTspecifically10/11. Parent trial randomized41 (13robot,15nonrobot,13wait-list); current report includes27exercise participants after one prebaseline nonrobot withdrawal."
+  },
+  {
+    "id": 13,
+    "label": "Kegelmeyer 2024",
+    "source": "079_13.Deb A. Kegelmeyer2024.txt",
+    "n_random": [
+      23,
+      22
+    ],
+    "n_observed": [
+      19,
+      20
+    ],
+    "arms": [
+      "RAGT",
+      "UC"
+    ],
+    "outcomes": [
+      {
+        "domain": "6MWT",
+        "scale": "6-minute walk distance",
+        "unit": "metres",
+        "page": "Supplemental Table1 p1",
+        "values": [
+          [
+            [
+              401.37,
+              136.71
+            ],
+            [
+              416.93,
+              124.35
+            ]
+          ],
+          [
+            [
+              403.66,
+              109.77
+            ],
+            [
+              426.92,
+              125.0
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "eligible": true,
+        "model_contrasts": [
+          {
+            "time": "post",
+            "comparison": "RAGT minus UC",
+            "mean_difference": 9.18,
+            "lower95": -26.1,
+            "upper95": 44.45
+          }
+        ],
+        "source_url": "https://cdn-links.lww.com/permalink/jnpt/a/jnpt_2024_01_04_kloos_2200178_sdc2.pdf?download=1"
+      },
+      {
+        "domain": "fog",
+        "scale": "FOG Questionnaire",
+        "unit": "points",
+        "page": "Supplemental Table1 p1",
+        "values": [
+          [
+            [
+              8.52,
+              6.9
+            ],
+            [
+              9.0,
+              6.49
+            ]
+          ],
+          [
+            [
+              9.18,
+              4.69
+            ],
+            [
+              9.85,
+              5.45
+            ]
+          ]
+        ],
+        "format": "mean_sd",
+        "eligible": true,
+        "model_contrasts": [
+          {
+            "time": "post",
+            "comparison": "RAGT minus UC",
+            "mean_difference": -0.36,
+            "lower95": -2.21,
+            "upper95": 1.5
+          }
+        ],
+        "source_url": "https://cdn-links.lww.com/permalink/jnpt/a/jnpt_2024_01_04_kloos_2200178_sdc2.pdf?download=1"
+      }
+    ],
+    "times": [
+      "baseline",
+      "post"
+    ],
+    "recruitment": "April2019–July2021",
+    "HY": "1–3",
+    "dose": "16sessions;45–60min;8weeks",
+    "device": "Honda Walking Assist",
+    "registration": "NCT03751371",
+    "notes": "Usual care and ongoing exercise, no structured control intervention. Official supplemental table gives n19/20 for post-intervention, despite20/20 completing overall study. Use unassisted testing and raw meanSD; retain adjusted model results separately."
+  }
+]
